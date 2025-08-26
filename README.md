@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Este es un repositorio de prueba
+Este proyeto es una prueba de clonar a mi pc
